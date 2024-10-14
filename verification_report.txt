@@ -1,0 +1,21 @@
+{
+    "/home/student/Downloads/monica_SIV/process_dir/data": {
+        "NEW_FILE_LAST_MODIFIED": "1705356473.0650175",
+        "OLD_FILE_LAST_MODIFIED": "1705333334.0"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data/new_file.txt": {
+        "FILE_SIZE": "25",
+        "FILE_USER_OWNER": "root",
+        "FILE_GROUP_OWNER": "root",
+        "FILE_ACCESS_RIGHTS": "33188",
+        "FILE_LAST_MODIFIED": "1705356472.2491233",
+        "FILE_HASH": "305346168a6dd9dce6162ab5c61e5b8ceb99e4de"
+    }
+}
+Observed Location Path               : /home/student/Downloads/monica_SIV/process_dir
+Verification File Path               : /home/student/Downloads/monica_SIV/verification_db.json
+Outcome File Path                    : /home/student/Downloads/monica_SIV/verification_report.txt
+Count of Examined Directories        : 4
+Count of Examined Files              : 4
+Count of Warnings Issued             : 1
+Verification Duration                : 0.0014529228210449219 seconds

@@ -1,0 +1,5 @@
+Observed Location Path                 : /home/student/Downloads/monica_SIV/process_dir
+Verification File Path                 : /home/student/Downloads/monica_SIV/verification_db.json
+Count of Examined Directories          : 4
+Count of Examined Files                : 3
+Initiation Duration                    : 0.00928807258605957 seconds

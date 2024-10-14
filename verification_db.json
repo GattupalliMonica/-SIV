@@ -1,0 +1,59 @@
+{
+    "/home/student/Downloads/monica_SIV/process_dir": {
+        "FILE_SIZE": "4096",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "16893",
+        "FILE_LAST_MODIFIED": "1705333334.0",
+        "FILE_HASH": "e57f4e2c6646d56996383384386b7eccca6c3a37"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/A1.txt": {
+        "FILE_SIZE": "4096",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "16893",
+        "FILE_LAST_MODIFIED": "1703356702.0",
+        "FILE_HASH": "5d6db74f2baad03d9297524debaf72553a32ebb8"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data": {
+        "FILE_SIZE": "4096",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "16893",
+        "FILE_LAST_MODIFIED": "1705333334.0",
+        "FILE_HASH": "88b9e73eb322a11a6a74e37a3b16a41cce708a5d"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data/sample": {
+        "FILE_SIZE": "4096",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "16893",
+        "FILE_LAST_MODIFIED": "1705333334.0",
+        "FILE_HASH": "aee46b74ddaf9abae6f1243018835bdcda415b94"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data/sample/1.txt": {
+        "FILE_SIZE": "26",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "33204",
+        "FILE_LAST_MODIFIED": "1703180058.0",
+        "FILE_HASH": "8824f550e15de94013b70f2594fa8bc74ee7f45a"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data/text": {
+        "FILE_SIZE": "36",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "33204",
+        "FILE_LAST_MODIFIED": "1705326702.0",
+        "FILE_HASH": "b9e6870427f507b057011df2b56d81f2620ccd8b"
+    },
+    "/home/student/Downloads/monica_SIV/process_dir/data/text copy": {
+        "FILE_SIZE": "21",
+        "FILE_USER_OWNER": "student",
+        "FILE_GROUP_OWNER": "student",
+        "FILE_ACCESS_RIGHTS": "33204",
+        "FILE_LAST_MODIFIED": "1704580656.0",
+        "FILE_HASH": "6841781499345f86bfb394d7c92406f89fea0df9"
+    },
+    "HASH_FUNCTION": "sha1"
+}
